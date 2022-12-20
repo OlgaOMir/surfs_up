@@ -17,3 +17,6 @@
 ## Summary
 
 Based on the results of this analysis the temperatures on the island stay pretty stable throughout the year and there is not much deferences between the summary statistics for the month of June and December. I would advise to perform the following queries to gather more data for both months as it will help with creating a more accurate picture for the stakeholders: 
+
+  - summary statistics of percipitation
+  - hazardous weather summary
